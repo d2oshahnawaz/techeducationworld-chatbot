@@ -1,0 +1,72 @@
+question,intent
+hi,greeting
+hello,greeting
+hey,greeting
+good morning,greeting
+good evening,greeting
+hello there,greeting
+hi there,greeting
+good afternoon,greeting
+how are you,greeting
+
+what is tech education world,about
+tell me about tech education world,about
+what does tech education world do,about
+about your platform,about
+who are you,about
+
+what courses do you offer,courses
+available courses,courses
+course list,courses
+programs offered,courses
+which courses are available,courses
+what can i learn here,courses
+
+do you provide internships,internship
+internship details,internship
+are internships available,internship
+how to get internship,internship
+internship opportunities,internship
+
+do you conduct webinars,webinars
+webinar details,webinars
+upcoming webinars,webinars
+any online sessions,webinars
+
+any coding competitions,events
+hackathon details,events
+technical events,events
+do you organize events,events
+
+is it free,pricing
+fees details,pricing
+what is the cost,pricing
+is there any fee,pricing
+is this platform free,pricing
+
+how to apply,apply
+how can i join,apply
+registration process,apply
+how to register,apply
+how do i enroll,apply
+
+where are you located,location
+company location,location
+where is tech education world,location
+your address,location
+where is your office,location
+
+what is your email,email
+contact email,email
+how can i email you,email
+email address,email
+
+what is your website,website
+official website link,website
+give me website link,website
+website url,website
+
+what is your phone number,phone
+contact number,phone
+how can i call you,phone
+phone number,phone
