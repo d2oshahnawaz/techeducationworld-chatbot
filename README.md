@@ -94,7 +94,7 @@ This chatbot is built to support the mission of **Tech Education World** by prov
 
 ## 📸 Screenshots
 
-*(Add your chatbot UI screenshots here for better impact)*
+![Chatbot UI](screenshot.png)
 
 ---
 
